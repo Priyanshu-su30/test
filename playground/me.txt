@@ -1,5 +1,0 @@
-{{#user}
-Name: Priyanshu
-Skills: C++, JAVA, HTML, CSS, JS, ReactJs
-Email: priyanshusingh.0601@gmail.com
-{{/user}}
